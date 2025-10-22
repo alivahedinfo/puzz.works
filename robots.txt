@@ -13,4 +13,4 @@ Allow: /
 User-agent: *
 Allow: /
 
-Sitemap: https://puzzworks.com.au/sitemap.xml
+Sitemap: https://puzz.works/sitemap.xml
